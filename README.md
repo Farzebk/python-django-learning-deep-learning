@@ -133,7 +133,7 @@ existing Django codebase.
 > Explain `intelligence/ai_models/services/model_factory.py`
 > line by line without skipping anything.
 
-📂 [`stage-1-python/`](stage-1-python/)
+📂 [`stage-01-python/`](stage-01-python/)
 
 ---
 
